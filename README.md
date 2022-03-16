@@ -87,10 +87,10 @@ Scripts used to add the additional unpublished features in H9 provided by Pradee
 1. Tiled genome construction of the H9 cell line with metadata read in using the import function from rtracklayer
 2. Sampling of the expanded H9 dataset for training models on the Temenos XAI platform
 
-### Functions_to_source
+## Functions_to_source
 Contains:
 - Functions sourced in other scripts
 
-### Plots
+## Plots
 Contains:
 - Functions to generate each plot found in chapter 5 this thesis
